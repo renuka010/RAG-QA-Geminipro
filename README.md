@@ -1,5 +1,5 @@
-# Generative QA Pipeling - RAG(Gemini-pro)
-This repository implements a **Generative Question Answering (QA) pipeline** using the **Retrieval-Augmented Generation** (RAG) approach. It leverages Haystack, an open-source AI framework, and Google's powerful **Gemini-Pro** generative model. The Pipeline is designed to generate answers to questions based on custom data extracted from two books.
+# Generative QA - RAG(Gemini-pro)
+This repository implements a **Generative Question Answering (QA)** using the **Retrieval-Augmented Generation** (RAG) approach. It leverages Haystack, an open-source AI framework, and Google's powerful **Gemini-Pro** generative model. The Pipeline is designed to generate answers to questions based on custom data extracted from two books.
 
 ## Overview
 
